@@ -12,7 +12,7 @@
     "react-dom": "^16.8.3",
     "react-lazy-load": "^3.0.13",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.5"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "prestart": "tailwind build ./src/index.tailwind.css -c ./src/tailwindconfig.js -o ./src/index.css",
